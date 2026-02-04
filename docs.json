@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Digpay Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#6215a3",
+    "light": "#982eeb",
+    "dark": "#430b5d"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -85,7 +85,7 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/light.svg"
   },
   "navbar": {
     "links": [
@@ -118,5 +118,11 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "fonts": {
+    "family": "Poppins"
+  },
+  "background": {
+    "image": "/images/b144385d-132e-4b85-8050-0400b481c000.avif"
   }
 }
